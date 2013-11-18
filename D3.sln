@@ -1,20 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D3App", "http://localhost:49323", "{8A3DB498-C752-4A03-87D7-D1F13082F3CE}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D3App", "http://localhost:25910", "{8A3DB498-C752-4A03-87D7-D1F13082F3CE}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_49323"
+		Debug.AspNetCompiler.VirtualPath = "/D3App"
 		Debug.AspNetCompiler.PhysicalPath = "D3App\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49323\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\D3App\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_49323"
+		Release.AspNetCompiler.VirtualPath = "/D3App"
 		Release.AspNetCompiler.PhysicalPath = "D3App\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49323\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\D3App\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
